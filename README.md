@@ -46,11 +46,6 @@ A comprehensive full-stack Hotel Management System designed for modern hospitali
 
 ---
 
-## 📂 Folder Structure (Simplified)
-
-
----
-
 ## 🔐 Security
 
 - ✅ **Keycloak** for identity and access management  
